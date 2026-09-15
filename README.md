@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnisdimz&label=Profile%20views&color=0e75b6&style=flat" alt="johnisdimz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://joo-portofolio.vercel.app/?username=johnisdimz" alt="johnisdimz" /></a> </p>
+<p align="left"> <a href="https://github.com/joo/github-profile"><img src="https://joo-portofolio.vercel.app/?username=johnisdimz" alt="johnisdimz" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://joo-portofolio.vercel.app/](https://joo-portofolio.vercel.app/)
 
