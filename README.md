@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/joo/github-profile"><img src="https://joo-portofolio.vercel.app/?username=johnisdimz" alt="johnisdimz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://joo-portofolio.vercel.app/](https://joo-portofolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portofolio-joo-exe.vercel.app/](https://portofolio-joo-exe.vercel.app/)
 
 - 💬 Ask me about **Bot Wa/Tele, Website, aplikasi mobile**
 
