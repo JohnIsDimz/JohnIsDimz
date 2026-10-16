@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Is Dimz</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnisdimz&label=Profile%20views&color=0e75b6&style=flat" alt="johnisdimz" /> </p>
-
-<p align="left"> <a href="https://github.com/joo/github-profile"><img src="https://joo-portofolio.vercel.app/?username=johnisdimz" alt="johnisdimz" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portofolio-joo-exe.vercel.app/](https://portofolio-joo-exe.vercel.app/)
 
 - 💬 Ask me about **Bot Wa/Tele, Website, aplikasi mobile**
